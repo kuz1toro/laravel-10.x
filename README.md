@@ -34,3 +34,7 @@ source ~/.bashrc
 laravel -V
 laravel new laravel-app
 ```
+## VSCode Extention
+1. Laravel blade snippets
+2. PHP Namespace Resolver
+3. PHP Intelephense
